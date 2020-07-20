@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my Github profile
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/rappi/" target="_blank" rel="noopener noreferrer">Rappi</a>
 - 🌱 I’m currently learning NodeJs, Go, AWS....
 - 👯 I’m looking to collaborate on NPM open source libraries
 - 📫 How to reach me: <a href="https://cristian-pelegrin.github.io/cristian-resume" target="_blank" rel="noopener noreferrer">Cristian's resume</a>
 - 😄 Pronouns: Pele
-- ⚡ Fun fact: I like to cook homemade food, learn guitar and travel to places with a lot of nature.
+- ⚡ Fun fact: I like to cook homemade food :hamburger:, learn guitar :guitar: and travel to places with a lot of nature :palm_tree:.
 <!--
 **cristian-pelegrin/cristian-pelegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

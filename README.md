@@ -1,11 +1,16 @@
 ### Hi there 👋
-:pushpin: <a href="https://cristian-pelegrin.github.io/cristian-resume" target="_blank" rel="noopener noreferrer">Cristian's resume</a>
+- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/rappi/" target="_blank" rel="noopener noreferrer">Rappi</a>
+- 🌱 I’m currently learning NodeJs, Go, AWS....
+- 👯 I’m looking to collaborate on NPM open source libraries
+- 📫 How to reach me: <a href="https://cristian-pelegrin.github.io/cristian-resume" target="_blank" rel="noopener noreferrer">Cristian's resume</a>
+- 😄 Pronouns: Pele
+- ⚡ Fun fact: I like to cook homemade food, learn guitar and travel to places with a lot of nature.
 <!--
 **cristian-pelegrin/cristian-pelegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

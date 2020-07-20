@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+:pushpin: [Cristian's resume](https://cristian-pelegrin.github.io/cristian-resume/ "Crsitian's Resume")
 <!--
 **cristian-pelegrin/cristian-pelegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

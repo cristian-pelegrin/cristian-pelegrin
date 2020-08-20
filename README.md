@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my Github profile
-- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/rappi/" target="_blank" rel="noopener noreferrer">Rappi</a>
-- 🌱 I’m currently learning NodeJs, Go, AWS....
+- 🔭 I’m currently working on <a href="https://www.whiteprompt.com/" target="_blank" rel="noopener noreferrer">WhitePrompt_</a>
+- 🌱 I’m currently learning NodeJs, GraphQL, TypeScript, Go, AWS....
 - 👯 I’m looking to collaborate on NPM open source libraries
 - 📫 How to reach me: <a href="https://cristian-pelegrin.github.io/cristian-resume" target="_blank" rel="noopener noreferrer">Cristian's resume</a>
 - 😄 Pronouns: Pele

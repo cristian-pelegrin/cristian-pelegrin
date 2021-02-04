@@ -5,6 +5,7 @@
 - 📫 How to reach me: Send me a email! cgp989@gmail.com
 - 😄 Pronouns: Pele
 - ⚡ Fun fact: I like to cook homemade food :hamburger:, learn guitar :guitar: and travel to places with a lot of nature :palm_tree:.
+- My CV:  <a href="https://cristian-pelegrin.github.io/cristian-resume/" target="_blank" rel="noopener noreferrer">Cristian's Resume</a>
 <!--
 **cristian-pelegrin/cristian-pelegrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

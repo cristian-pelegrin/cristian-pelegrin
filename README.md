@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my Github profile
-- 🔭 I’m currently working on <a href="https://www.whiteprompt.com/" target="_blank" rel="noopener noreferrer">WhitePrompt_</a>
-- 🌱 I’m currently learning NodeJs, GraphQL, TypeScript, Go, AWS....
+- 🔭 I’m currently working on <a href="https://protege.app/" target="_blank" rel="noopener noreferrer">Protégé</a>
+- 🌱 I’m currently learning NodeJs, GraphQL, TypeScript, Go, AWS, Serverless....
 - 👯 I’m looking to collaborate on NPM open source libraries
 - 📫 How to reach me: Send me a email! cgp989@gmail.com
 - 😄 Pronouns: Pele

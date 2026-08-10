@@ -1,9 +1,25 @@
-### Hi there 👋, Welcome to my Github profile
-- 🔭 I’m currently working on <a href="https://www.ryzlabs.com/" target="_blank" rel="noopener noreferrer">Ryz Labs</a>
-- 🌱 I’m currently working with NodeJs, Typescript, ReactJs, Python, GraphQL, AWS, Amplify, Serverless....
-- 🤓 I’m currently learning Golang
-- 👯 I am looking to collaborate on Blockchain and Web3 projects.
-- 📫 How to reach me: Send me a email! cgp989@gmail.com
-- 😄 Pronouns: Cris, Pele
-- ⚡ Fun fact: I like to cook homemade food :hamburger:, practice kickboxing 🥊, ride a mountain bike 🚵‍♂️, go to the gym 🏋️‍♂️ and travel to places with a lot of nature :palm_tree:.
-- My CV:  <a href="https://cristian-pelegrin.github.io/cristian-resume/" target="_blank" rel="noopener noreferrer">Cristian's Resume</a>
+# Hi there 👋, I'm Cristian Pelegrin
+
+Software Engineer at **Naranja X** | Passionate about Backend, Cloud Architecture & AI.
+
+---
+
+### 🚀 About Me
+- 🔭 **Currently working with:** Node.js, TypeScript, Python, AWS, Microservices, and Serverless architectures.
+- 🧠 **Currently learning:** AI Engineering.
+- 🤝 **Looking to collaborate on:** AI-native projects.
+- ⚡ **Fun fact:** I love mountain biking 🚵, cooking homemade food 🍔, working out at the gym 🏋️ and traveling the world ✈️
+
+---
+
+### 🛠️ Tech Stack
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianpelegrin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cgp989@gmail.com)
